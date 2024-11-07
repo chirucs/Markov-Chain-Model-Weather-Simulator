@@ -1,5 +1,3 @@
-# Writing the README.md content to a file
-readme_content = """
 # Markov Chain Weather Simulator
 
 A Python project that simulates weather patterns using a Markov chain model. The project predicts future weather conditions based on a set of predefined states (Sunny, Rainy, Cloudy) and transition probabilities. It also visualizes the state transitions using a directed graph to better understand how the Markov chain evolves over time.
