@@ -10,7 +10,7 @@ The simulator:
 - Uses a transition matrix to define the probabilities of moving from one weather state to another.
 - Generates a sequence of weather states over a specified number of days.
 - Visualizes the state transitions with a directed graph, showing the probabilities of moving between weather states.
-
+ 
 
 
 ## Features
