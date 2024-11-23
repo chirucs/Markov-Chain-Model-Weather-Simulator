@@ -6,7 +6,7 @@ A Python project that simulates weather patterns using a Markov chain model. The
 
 This project demonstrates the use of Markov chains to model and simulate weather patterns. In a Markov chain, the next state depends only on the current state, making it a powerful tool for modeling systems that have memoryless transitions.
 
-The simulator:
+The simulator: 
 - Uses a transition matrix to define the probabilities of moving from one weather state to another.
 - Generates a sequence of weather states over a specified number of days.
 - Visualizes the state transitions with a directed graph, showing the probabilities of moving between weather states.
